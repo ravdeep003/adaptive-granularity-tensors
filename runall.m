@@ -3,7 +3,7 @@
 
 clear all; clc;
 % Data path and result path
-datasetPath = 'dataset/';
+datasetPath = 'dataset/syntheticDataDemo.mat';
 resultPath = 'result';
 % parameter to run utility functions
 ops.normThreshold = 0.15;

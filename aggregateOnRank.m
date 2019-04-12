@@ -67,5 +67,4 @@ end
 rank = gather(rankGPU);
 W = findW(lookup, K);
 clear G X rankGPU;
-gpuDevice(1);
 end
