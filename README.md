@@ -6,9 +6,9 @@
 * NMI code: User can use there own implementation of NMI code. There are sample code available [online](https://www.mathworks.com/matlabcentral/fileexchange/29047-normalized-mutual-information)
 
 ## How to run 
-* Make a directory named result in the same path as runall.m
-* Edit `datasetPath` and `runs` variable accordingly in runall.m file
-* Run the script runall.m in Matlab
+* Make a directory named `result` in the same path as `runall.m`
+* Edit `datasetPath` and `runs` variable accordingly in `runall.m` file
+* Run the script `runall.m` in Matlab
 
 ## Computing Entropy
 * main.m shows how to compute entropy.
