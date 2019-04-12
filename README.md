@@ -11,4 +11,4 @@
 * Run the script `runall.m` in Matlab
 
 ## Computing Entropy
-* main.m shows how to compute entropy.
+* `main.m` shows how to compute entropy.
