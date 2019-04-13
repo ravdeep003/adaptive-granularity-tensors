@@ -12,3 +12,10 @@
 
 ## Computing Entropy
 * `main.m` shows how to compute entropy.
+
+
+
+
+
+
+Copyright (c) 2019, Ravdeep, Ekta and Evangelos All rights reserved.
